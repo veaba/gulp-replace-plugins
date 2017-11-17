@@ -11,7 +11,7 @@
 ```npm
 	gulp 
 ```
-##　style 文件路径必须为
+## style 文件路径必须为
 
 ```html
 <link rel="stylesheet" href="css/style.css">
